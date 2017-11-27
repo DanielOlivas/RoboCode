@@ -2,7 +2,7 @@
  * DVRobo - a robot by Daniel Olivas and Vishal Alisetty
  */
  
- package VishalA_DanielO;
+ package valisetty_deolivas;
 import robocode.*;
 import java.awt.*; // Used to import the classes present in the package java.awt
 import java.awt.geom.Point2D; // Allows us to use the (X,Y) coordinate plane
